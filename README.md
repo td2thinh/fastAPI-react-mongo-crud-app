@@ -1,0 +1,1 @@
+## FARM STACK APP TUTORIAL (FastAPI-React-MongoDB)
