@@ -4,8 +4,12 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-
-[dev-packages]
+fastapi = "==0.95.2"
+uvicorn = "==0.22.0"
+motor = "==3.1.2"
 
 [requires]
 python_version = "3.11"
+
+[dev-packages]
+python-decouple = "*"
